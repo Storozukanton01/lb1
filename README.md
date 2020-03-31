@@ -1,3 +1,3 @@
 # lb1 (Bulls and cows)
 
-![screenshot](screen.JPG "Приклад роботи програми")
+![screenshot](screenshot.JPG "Приклад роботи програми")
